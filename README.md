@@ -27,7 +27,7 @@ bind --mode default \a 'mof goto'
 ## 💪 Usage
 
 Installs a single command to contol list of folders and navigate, `mof`.
-<script async id="asciicast-569727" src="https://asciinema.org/a/569727.js"></script>
+![usage gif](https://raw.githubusercontent.com/vadimvolk/mof/refs/heads/main/assets/mof.gif)
 
 ### 📂 Managing list of folders
 
